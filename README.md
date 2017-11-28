@@ -1,1 +1,1 @@
-# VSN-EDU
+# VSNEDU
