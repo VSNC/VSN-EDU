@@ -11,8 +11,10 @@
 #' \item{fosternest}{with the foster nest.}
 #' \item{hatchdate}{first egg in each nest hatched.}
 #' \item{sex}{sex.} 
+#' \item{test}{test.}
 #' }
 #' 
 #' @references  MCMCglmm package, Hadfield, J.D. et. al. 2007 Journal of Evolutionary Biology 20 549-557
 #' @seealso \code{\link{BTped}}
+
 "BTdata"
