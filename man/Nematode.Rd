@@ -25,6 +25,6 @@ Nematode
 Results of a classic experiment, carried out at Rothamsted in 1935 (also see Cochran & Cox 1957, Experimental Designs, page 46).
 }
 \details{
-he Nematode dataset has a randomized-block design. There are four blocks, each of which has twelve plots. Four different fumigants were used to control the nematodes (CN, CS, CM and CK). Two doses (Single and Double) were tried together with a control treatment (None = no fumigant at any dose). Nematodes counts were recorded prior to the experiment and afterwards.
+The Nematode dataset has a randomized-block design. There are four blocks, each of which has twelve plots. Four different fumigants were used to control the nematodes (CN, CS, CM and CK). Two doses (Single and Double) were tried together with a control treatment (None = no fumigant at any dose). Nematodes counts were recorded prior to the experiment and afterwards.
 }
 \keyword{datasets}

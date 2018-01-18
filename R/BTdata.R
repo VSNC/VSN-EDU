@@ -17,5 +17,3 @@
 #' @seealso \code{\link{BTped}}
 
 "BTdata"
-
-
