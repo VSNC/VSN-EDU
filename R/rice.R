@@ -21,6 +21,5 @@
 #' @source 
 #'  Gomez, K.A. & Gomez, A.A. (1984) Statistical Procedures for Agricultural Research, page 110.
 #'  
-#' @examples 
 #'  
 "rice"

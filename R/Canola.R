@@ -23,21 +23,8 @@
 #' \url{www.vsni.co.uk/}
 #' @examples 
 #' # The aov code
-#' data(Canova,package="vsnc")
+#' library(VSNEDU)
+#' data(Canova)
 #' moda <- aov(yield ~ N*S + Error(block),data=Canola)
 #' summary(moda)
-#' 
-#' # The msanova code
-#' # library(msanova)
-#' # data(Canova,package="vsnc")
-#' # modb <- msanova(yield ~ N*S,blockstructure =~ block,data = Canola )
-#' # summary(modb)
-#' # plot(modb)
-#' 
-#' # The asreml code
-#' data(Canova,package="vsnc")
-#' library(asreml)
-#' modc <- asreml(yield ~ N*S, random = ~ block, data=Canola)
-#' wald(modc)
-#' plot(modc) 
 "Canola"

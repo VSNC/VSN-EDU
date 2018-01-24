@@ -47,7 +47,9 @@
 #'    Genstat.co.uk
 #'    
 #' @examples 
-#' moda <- aov(yield ~ nitrogen*variety + Error(blocks/wplots),data= Oats)
+#' library(VSNEDU)
+#' data(oats)
+#' moda <- aov(yield ~ Nitrogen*Variety + Error(Blocks/Wplots),data= oats)
 #' summary(moda)
 #' 
 "oats"

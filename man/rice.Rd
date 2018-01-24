@@ -27,7 +27,4 @@ columns and six rows. Within each replicate, the nitrogen levels
 were randomized onto the columns, and the varieties were
 randomized onto the rows.The response variable is the yield of rice.
 }
-\examples{
- 
-}
 \keyword{datasets}

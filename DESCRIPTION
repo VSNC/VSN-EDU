@@ -4,7 +4,7 @@ Title: VSN agridat
 Version: 0.1.0
 Author: Dave
 Maintainer: Dave <Dave@vsni.co.uk>
-Description: VSN agridat
+Description: This package is for biostastics teaching, it provide the data and example code.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
